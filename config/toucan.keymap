@@ -18,7 +18,6 @@
         };
     };
 
-  {
     behaviors {
         bspc_del: backspace_delete {
             compatible = "zmk,behavior-mod-morph";
